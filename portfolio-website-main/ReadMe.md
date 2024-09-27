@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://img.shields.io/github/repo-size/Rtk123/Ritikco" alt="GitHub repo size">
-  <img src="https://img.shields.io/github/stars/Rtk123/Ritikco?style=social" alt="GitHub stars">
-  <img src="https://img.shields.io/github/forks/Rtk123/Ritikco?style=social" alt="GitHub forks">
+  <img src="https://img.shields.io/github/repo-size/Rtk123/Portfolio-website" alt="GitHub repo size">
+  <img src="https://img.shields.io/github/stars/Rtk123/Portfolio-website?style=social" alt="GitHub stars">
+  <img src="https://img.shields.io/github/forks/Rtk123/Portfolio-website?style=social" alt="GitHub forks">
 
   <br />
 
@@ -9,15 +9,14 @@
 
   <p>Responsive Portfolio Website using HTML, CSS, and JavaScript.</p>
 
-  <a href="file:///C:/Users/RITIK%20TIWARI/Documents/portfolio-website-main/index.html" target="_blank"><strong>➥ Visit My Portfolio</strong></a>
+  <a href="https://Rtk123.github.io/Portfolio-website/" target="_blank"><strong>➥ Visit My Portfolio</strong></a>
 </div>
 
 <br />
 
 
-### Desktop Preview
 
-https://github.com/pawantech12/portfolio-website/assets/118673866/0322c419-a173-4aa9-a360-b09bd7bd24aa
+
 
 ### Prerequisites
 
@@ -123,20 +122,11 @@ To run **Personal Portfolio** locally, run this command on your git bash:
 
 Linux and macOS:
 
-```bash
-sudo git clone https://github.com/pawantech12/portfolio-website.git
-```
 
-Windows:
 
-```bash
-git clone https://github.com/pawantech12/portfolio-website.git
-```
+
 
 ### Contact
 
-If you want to contact with me you can reach me at [Instagram](https://www.instagram.com/codewithpawan/).
+If you want to contact with me you can reach me at [Instagram](https://www.instagram.com/ritiktiwari6407/).
 
-### License
-
-This project is **Free To Use** and does not contains any license.
